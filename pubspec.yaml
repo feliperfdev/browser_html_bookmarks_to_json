@@ -1,14 +1,12 @@
 name: browser_html_bookmarks_to_json
-description: A sample command-line application.
+description: Convert Browser HTML exported Bookmarks to JSON format. Works with MS Edge, Firefox and Chrome.
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/feliperfdev/browser_html_bookmarks_to_json
 
 environment:
   sdk: ^3.8.0
 
-# Add regular dependencies here.
 dependencies:
-  # path: ^1.8.0
 
 dev_dependencies:
   lints: ^5.0.0
